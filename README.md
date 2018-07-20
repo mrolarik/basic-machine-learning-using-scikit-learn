@@ -6,4 +6,5 @@
 - [Matplotlib Library](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/003-Matplotlib.ipynb): [plot MNIST dataset](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/003-Plot-MNIST-Dataset.ipynb)
 - [Seaborn Library](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/004-Seaborn-Library.ipynb)
 - Linear Regression: [Diabetes Dataset](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/005-Linear-Regression.ipynb), [Housing Dataset](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/005-Linear-Regression-Housing-Dataset.ipynb)
+- [Binary Classification](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/006-Binary-Classifier.ipynb)
 - [K-Nearest Neighbors](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/003-KNN.ipynb)
