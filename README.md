@@ -9,4 +9,4 @@
 - [Binary Classification](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/006-Binary-Classifier.ipynb)
 - [K-Nearest Neighbors: KNN](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/007-K-Nearest-Neighbor-(KNN).ipynb); [MNIST Classification](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/007-KNN-MNIST-Dataset.ipynb)
 - [Naive Bayes Classification](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/008-Naive-Bayes-Classification.ipynb)
-- [Principal Components Analysis: PCA] (https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/008-Principal-Component-Analysis-(PCA).ipynb)
+- [Principal Components Analysis: PCA](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/008-Principal-Component-Analysis-(PCA).ipynb)
