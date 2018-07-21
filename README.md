@@ -12,3 +12,4 @@
 - [Principal Components Analysis: PCA](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/008-Principal-Component-Analysis-(PCA).ipynb)
 - [K-Means Clustering](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/009-K-Means-Clustering.ipynb)
 - [Face Recognition using Support Vector Machine (SVM) and PCA](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/010-Face-Recognition.ipynb)
+- [Character Recognition using Multi-Layer Perceptron (MLP)](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/011-Character-Recognition.ipynb)
