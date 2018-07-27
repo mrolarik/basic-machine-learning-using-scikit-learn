@@ -13,3 +13,6 @@
 - [K-Means Clustering](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/009-K-Means-Clustering.ipynb)
 - [Face Recognition using Support Vector Machine (SVM) and PCA](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/010-Face-Recognition.ipynb)
 - [Character Recognition using Multi-Layer Perceptron (MLP)](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/011-Character-Recognition.ipynb)
+
+# Download Free Book
+- link: https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/book/Fundamentals-Machine-Learning-Analyzing-Data-with-Python.pdf
