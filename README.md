@@ -15,4 +15,4 @@
 - [Character Recognition using Multi-Layer Perceptron (MLP)](https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/011-Character-Recognition.ipynb)
 
 # Download Free Book
-- link: https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/book/Fundamentals-Machine-Learning-Analyzing-Data-with-Python.pdf
+- Link: https://github.com/mrolarik/basic-machine-learning-using-scikit-learn/blob/master/book/Fundamentals-Machine-Learning-Analyzing-Data-with-Python.pdf
